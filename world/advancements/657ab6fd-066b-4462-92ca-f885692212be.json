@@ -429,7 +429,8 @@
   },
   "sf4:age_allthethingsomglol/complete": {
     "criteria": {
-      "Completed Age of ALLTHETHINGSOMGLOL§r": "2024-07-06 15:47:19 +0300"
+      "Completed Age of ALLTHETHINGSOMGLOL§r": "2024-07-06 15:47:19 +0300",
+      "Completed I\u0027m Not Lazy, I\u0027m Energy Efficient§r": "2024-07-16 23:14:01 +0300"
     },
     "done": false
   },
@@ -531,7 +532,9 @@
   "sf4:age_allthethingsomglol/truffles": {
     "criteria": {
       "Lithium": "2024-07-15 23:27:26 +0300",
-      "Boron": "2024-07-16 04:03:30 +0300"
+      "Boron": "2024-07-16 04:03:30 +0300",
+      "Platinum": "2024-07-17 01:10:36 +0300",
+      "Steel": "2024-07-17 01:24:22 +0300"
     },
     "done": false
   },
@@ -848,7 +851,8 @@
   "sf4:age_allthethingsomglol/complete_no_prestige": {
     "criteria": {
       "Prestige Mode Disabled": "2024-07-06 15:47:22 +0300",
-      "Completed Age of ALLTHETHINGSOMGLOL§r": "2024-07-06 15:47:19 +0300"
+      "Completed Age of ALLTHETHINGSOMGLOL§r": "2024-07-06 15:47:19 +0300",
+      "Completed I\u0027m Not Lazy, I\u0027m Energy Efficient§r": "2024-07-16 23:14:01 +0300"
     },
     "done": false
   },
@@ -1101,6 +1105,12 @@
   "twilightforest:alt/entities/lich": {
     "criteria": {
       "hurt_by_indirect": "2024-07-11 00:16:49 +0300"
+    },
+    "done": true
+  },
+  "sf4:age_allthethingsomglol/nuclearcraftenergyupgrade": {
+    "criteria": {
+      "Obtain Nuclearcraft Energy Upgrade": "2024-07-16 23:14:01 +0300"
     },
     "done": true
   },
@@ -1699,6 +1709,7 @@
   },
   "compactmachines:test/5x5x52": {
     "criteria": {
+      "Craft Simple Soul Generator": "2024-07-17 00:26:44 +0300",
       "Craft Simple Ender Generator": "2024-07-16 03:40:50 +0300",
       "Craft Simple Combustion Generator": "2024-07-07 03:33:44 +0300",
       "Craft Simple Geothermal Generator": "2024-07-10 21:42:39 +0300"

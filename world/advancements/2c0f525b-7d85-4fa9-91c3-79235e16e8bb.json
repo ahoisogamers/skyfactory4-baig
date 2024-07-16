@@ -104,6 +104,12 @@
     },
     "done": true
   },
+  "sf4:age_enhancement/energyupgrade": {
+    "criteria": {
+      "Obtain Mekanism Energy Upgrade": "2024-07-17 01:18:41 +0300"
+    },
+    "done": true
+  },
   "sf4:age1/sapling/redstone": {
     "criteria": {
       "Completed Root": "2024-07-06 16:07:03 +0300",
@@ -186,6 +192,7 @@
       "Completed To Be ORe Not to Be§r": "2024-07-06 22:58:58 +0300",
       "Completed Pattern Me, Sir§r": "2024-07-06 23:06:35 +0300",
       "Completed Keep It Between the Lines§r": "2024-07-06 23:05:09 +0300",
+      "Completed Power Save Mode§r": "2024-07-17 01:18:41 +0300",
       "Completed Rolling into the Station§r": "2024-07-06 23:03:53 +0300",
       "Completed It\u0027s Over 20!§r": "2024-07-07 21:11:00 +0300",
       "Completed Age of Enhancement§r": "2024-07-06 16:07:03 +0300",
@@ -418,7 +425,8 @@
   },
   "sf4:age_allthethingsomglol/complete": {
     "criteria": {
-      "Completed Age of ALLTHETHINGSOMGLOL§r": "2024-07-06 16:07:03 +0300"
+      "Completed Age of ALLTHETHINGSOMGLOL§r": "2024-07-06 16:07:03 +0300",
+      "Completed I\u0027m Not Lazy, I\u0027m Energy Efficient§r": "2024-07-16 23:13:56 +0300"
     },
     "done": false
   },
@@ -502,6 +510,12 @@
       "Obtain Hopper": "2024-07-06 19:20:03 +0300"
     },
     "done": true
+  },
+  "sf4:age_allthethingsomglol/truffles": {
+    "criteria": {
+      "Boron": "2024-07-16 23:17:08 +0300"
+    },
+    "done": false
   },
   "sf4:age1/iron_bucket": {
     "criteria": {
@@ -815,7 +829,8 @@
   "sf4:age_allthethingsomglol/complete_no_prestige": {
     "criteria": {
       "Prestige Mode Disabled": "2024-07-06 16:07:03 +0300",
-      "Completed Age of ALLTHETHINGSOMGLOL§r": "2024-07-06 16:07:03 +0300"
+      "Completed Age of ALLTHETHINGSOMGLOL§r": "2024-07-06 16:07:03 +0300",
+      "Completed I\u0027m Not Lazy, I\u0027m Energy Efficient§r": "2024-07-16 23:13:56 +0300"
     },
     "done": false
   },
@@ -1040,6 +1055,12 @@
   "twilightforest:alt/entities/lich": {
     "criteria": {
       "hurt_by_indirect": "2024-07-11 00:16:39 +0300"
+    },
+    "done": true
+  },
+  "sf4:age_allthethingsomglol/nuclearcraftenergyupgrade": {
+    "criteria": {
+      "Obtain Nuclearcraft Energy Upgrade": "2024-07-16 23:13:56 +0300"
     },
     "done": true
   },
@@ -1380,6 +1401,7 @@
   "sf4:age_farming/skyorchards": {
     "criteria": {
       "Obtain Dirt Sapling": "2024-07-06 16:14:48 +0300",
+      "Obtain Osmium Sapling": "2024-07-17 01:10:16 +0300",
       "Obtain Lead Sapling": "2024-07-06 21:50:36 +0300",
       "Obtain Silver Sapling": "2024-07-07 20:18:00 +0300",
       "Obtain Coal Sapling": "2024-07-06 18:10:29 +0300",
@@ -1456,6 +1478,7 @@
       "Completed To Be ORe Not to Be§r": "2024-07-06 22:58:58 +0300",
       "Completed Pattern Me, Sir§r": "2024-07-06 23:06:35 +0300",
       "Completed Keep It Between the Lines§r": "2024-07-06 23:05:09 +0300",
+      "Completed Power Save Mode§r": "2024-07-17 01:18:41 +0300",
       "Completed Rolling into the Station§r": "2024-07-06 23:03:53 +0300",
       "Completed It\u0027s Over 20!§r": "2024-07-07 21:11:00 +0300",
       "Completed Age of Enhancement§r": "2024-07-06 16:07:03 +0300",
