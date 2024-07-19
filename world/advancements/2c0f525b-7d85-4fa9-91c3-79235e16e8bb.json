@@ -136,6 +136,12 @@
     },
     "done": false
   },
+  "sf4:age_power/energizedsmelter": {
+    "criteria": {
+      "Obtain Energized Smelter": "2024-07-19 00:41:30 +0300"
+    },
+    "done": true
+  },
   "sf4:age1/slabs": {
     "criteria": {
       "Obtain Chest Slab": "2024-07-06 18:01:28 +0300",
@@ -168,6 +174,12 @@
     },
     "done": true
   },
+  "sf4:age_enhancement/craftingupgrade": {
+    "criteria": {
+      "Eat Cyclic Crafting Upgrade": "2024-07-19 05:31:27 +0300"
+    },
+    "done": true
+  },
   "hardcore:hardcore/forgivingvoid": {
     "criteria": {
       "Completed Age of Exploration§r": "2024-07-06 16:07:03 +0300",
@@ -189,6 +201,7 @@
       "Completed Overworked and Underpaid§r": "2024-07-08 01:33:25 +0300",
       "Completed Up in Arms§r": "2024-07-06 23:07:36 +0300",
       "Completed Tim the Tool Man Taylor§r": "2024-07-06 23:05:46 +0300",
+      "Completed Getting Warmer§r": "2024-07-19 04:58:13 +0300",
       "Completed To Be ORe Not to Be§r": "2024-07-06 22:58:58 +0300",
       "Completed Pattern Me, Sir§r": "2024-07-06 23:06:35 +0300",
       "Completed Keep It Between the Lines§r": "2024-07-06 23:05:09 +0300",
@@ -196,6 +209,8 @@
       "Completed Rolling into the Station§r": "2024-07-06 23:03:53 +0300",
       "Completed It\u0027s Over 20!§r": "2024-07-07 21:11:00 +0300",
       "Completed Age of Enhancement§r": "2024-07-06 16:07:03 +0300",
+      "Completed Edible Arrangements§r": "2024-07-19 05:31:27 +0300",
+      "Completed Ore\u0027nt You Glad I Didn\u0027t Say Banana§r": "2024-07-19 04:51:08 +0300",
       "Completed Eat Your Heart Out§r": "2024-07-16 02:53:10 +0300"
     },
     "done": false
@@ -322,6 +337,7 @@
       "Completed Made for Each Other§r": "2024-07-07 04:28:35 +0300",
       "Completed The Study Guide§r": "2024-07-09 23:34:23 +0300",
       "Completed Package Control§r": "2024-07-10 00:00:40 +0300",
+      "Completed Gotta Smelt Fast§r": "2024-07-19 00:41:30 +0300",
       "Completed Extraction, Extraction, Read All About It!§r": "2024-07-10 16:16:18 +0300",
       "Completed No Chargebacks§r": "2024-07-09 23:42:39 +0300",
       "Completed Need iiii Speed§r": "2024-07-07 04:54:58 +0300",
@@ -511,9 +527,18 @@
     },
     "done": true
   },
+  "sf4:age_enhancement/tank": {
+    "criteria": {
+      "Obtain Tank": "2024-07-19 04:51:08 +0300"
+    },
+    "done": true
+  },
   "sf4:age_allthethingsomglol/truffles": {
     "criteria": {
-      "Boron": "2024-07-16 23:17:08 +0300"
+      "Boron": "2024-07-16 23:17:08 +0300",
+      "Platinum": "2024-07-19 00:40:09 +0300",
+      "Steel": "2024-07-19 00:40:09 +0300",
+      "Thorium": "2024-07-19 00:40:09 +0300"
     },
     "done": false
   },
@@ -534,6 +559,12 @@
     "criteria": {
       "Completed Root": "2024-07-06 16:07:03 +0300",
       "Obtain Lead Amber": "2024-07-06 21:48:24 +0300"
+    },
+    "done": true
+  },
+  "sf4:age_farming/blackmulch": {
+    "criteria": {
+      "Obtain Black Mulch": "2024-07-19 03:52:42 +0300"
     },
     "done": true
   },
@@ -685,7 +716,8 @@
   },
   "compactmachines:test/5x5x5": {
     "criteria": {
-      "Obtain Porcelain Melter": "2024-07-06 22:58:58 +0300"
+      "Obtain Porcelain Melter": "2024-07-06 22:58:58 +0300",
+      "Obtain Melter": "2024-07-19 04:58:13 +0300"
     },
     "done": false
   },
@@ -1405,6 +1437,7 @@
       "Obtain Lead Sapling": "2024-07-06 21:50:36 +0300",
       "Obtain Silver Sapling": "2024-07-07 20:18:00 +0300",
       "Obtain Coal Sapling": "2024-07-06 18:10:29 +0300",
+      "Obtain Netherrack Sapling": "2024-07-19 03:35:30 +0300",
       "Obtain Diamond Sapling": "2024-07-07 20:18:06 +0300",
       "Obtain Copper Sapling": "2024-07-07 04:32:24 +0300",
       "Obtain Cottonwood Sapling": "2024-07-06 17:54:15 +0300",
@@ -1412,6 +1445,7 @@
       "Obtain Bacon Sapling": "2024-07-07 20:09:21 +0300",
       "Obtain Donut Sapling": "2024-07-07 20:06:05 +0300",
       "Obtain Glowstone Sapling": "2024-07-08 02:06:51 +0300",
+      "Obtain Emerald Sapling": "2024-07-19 03:34:47 +0300",
       "Obtain Petrified Sapling": "2024-07-06 16:25:50 +0300",
       "Obtain Tin Sapling": "2024-07-06 18:29:20 +0300",
       "Obtain Nickel Sapling": "2024-07-08 01:42:20 +0300",
@@ -1421,7 +1455,8 @@
       "Obtain Redstone Sapling": "2024-07-06 19:20:54 +0300",
       "Obtain Clay Sapling": "2024-07-06 16:41:56 +0300",
       "Obtain Gravel Sapling": "2024-07-06 17:31:45 +0300",
-      "Obtain Bone Sapling": "2024-07-06 17:34:18 +0300"
+      "Obtain Bone Sapling": "2024-07-06 17:34:18 +0300",
+      "Obtain Quartz Sapling": "2024-07-19 03:35:30 +0300"
     },
     "done": false
   },
@@ -1475,6 +1510,7 @@
       "Completed Overworked and Underpaid§r": "2024-07-08 01:33:25 +0300",
       "Completed Up in Arms§r": "2024-07-06 23:07:36 +0300",
       "Completed Tim the Tool Man Taylor§r": "2024-07-06 23:05:46 +0300",
+      "Completed Getting Warmer§r": "2024-07-19 04:58:13 +0300",
       "Completed To Be ORe Not to Be§r": "2024-07-06 22:58:58 +0300",
       "Completed Pattern Me, Sir§r": "2024-07-06 23:06:35 +0300",
       "Completed Keep It Between the Lines§r": "2024-07-06 23:05:09 +0300",
@@ -1482,6 +1518,8 @@
       "Completed Rolling into the Station§r": "2024-07-06 23:03:53 +0300",
       "Completed It\u0027s Over 20!§r": "2024-07-07 21:11:00 +0300",
       "Completed Age of Enhancement§r": "2024-07-06 16:07:03 +0300",
+      "Completed Edible Arrangements§r": "2024-07-19 05:31:27 +0300",
+      "Completed Ore\u0027nt You Glad I Didn\u0027t Say Banana§r": "2024-07-19 04:51:08 +0300",
       "Completed Eat Your Heart Out§r": "2024-07-16 02:53:10 +0300"
     },
     "done": false
@@ -1597,6 +1635,7 @@
       "Completed Made for Each Other§r": "2024-07-07 04:28:35 +0300",
       "Completed The Study Guide§r": "2024-07-09 23:34:23 +0300",
       "Completed Package Control§r": "2024-07-10 00:00:40 +0300",
+      "Completed Gotta Smelt Fast§r": "2024-07-19 00:41:30 +0300",
       "Completed Extraction, Extraction, Read All About It!§r": "2024-07-10 16:16:18 +0300",
       "Completed No Chargebacks§r": "2024-07-09 23:42:39 +0300",
       "Completed Need iiii Speed§r": "2024-07-07 04:54:58 +0300",
@@ -1615,6 +1654,12 @@
       "Completed Bring Me to Life§r": "2024-07-09 23:35:29 +0300"
     },
     "done": false
+  },
+  "sf4:age_enhancement/heater": {
+    "criteria": {
+      "Obtain Seared Heater": "2024-07-19 04:58:13 +0300"
+    },
+    "done": true
   },
   "sf4:age_power/pristinezombiematter": {
     "criteria": {
@@ -1699,6 +1744,7 @@
       "Completed Sweet Amber§r": "2024-07-10 22:33:01 +0300",
       "Completed Fertile Soil§r": "2024-07-06 17:55:39 +0300",
       "Completed This Little Piggy§r": "2024-07-06 21:34:20 +0300",
+      "Completed Not Mulch Going On§r": "2024-07-19 03:52:42 +0300",
       "Completed Bonsai!!!§r": "2024-07-06 17:12:59 +0300",
       "Completed Don\u0027t Eat the Yellow Mulch§r": "2024-07-10 16:35:52 +0300",
       "Completed TuMULCHuous§r": "2024-07-10 03:56:55 +0300",
