@@ -918,6 +918,12 @@
     },
     "done": true
   },
+  "sf4:age_farming/bluemulch": {
+    "criteria": {
+      "Obtain Blue Mulch": "2024-07-26 02:40:48 +0300"
+    },
+    "done": true
+  },
   "tutorial:tutorial/copied/greenslimydirt": {
     "criteria": {
       "Obtain Green Slime Dirt": "2024-07-06 22:51:52 +0300"
@@ -1849,6 +1855,7 @@
       "Completed TuMULCHuous§r": "2024-07-10 16:48:39 +0300",
       "Completed Age of Farming§r": "2024-07-06 15:47:19 +0300",
       "Completed Diagon Alley§r": "2024-07-06 20:55:32 +0300",
+      "Completed I\u0027m Blue Da Ba Dee§r": "2024-07-26 02:40:48 +0300",
       "Completed Goodbye Ruby Mulch§r": "2024-07-15 23:35:26 +0300",
       "Completed The Hot Stuff§r": "2024-07-19 04:23:05 +0300"
     },
