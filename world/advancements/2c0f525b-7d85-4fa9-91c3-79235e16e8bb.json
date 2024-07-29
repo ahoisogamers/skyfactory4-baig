@@ -286,6 +286,12 @@
     },
     "done": false
   },
+  "sf4:age_storage/bdsandmmetalbarrel": {
+    "criteria": {
+      "Obtain Metal Barrel": "2024-07-29 18:59:09 +0300"
+    },
+    "done": true
+  },
   "sf4:age1/crushing_tub": {
     "criteria": {
       "Obtain Crushing Tub": "2024-07-06 17:35:05 +0300",
@@ -349,6 +355,7 @@
       "Prestige Mode Disabled": "2024-07-06 16:07:03 +0300",
       "Completed Generator, I Hardly Know Her§r": "2024-07-07 03:25:32 +0300",
       "Completed Getting into Shape§r": "2024-07-16 05:00:37 +0300",
+      "Completed Clicker Hero§r": "2024-07-29 18:58:29 +0300",
       "Completed Get Informed!§r": "2024-07-28 05:15:58 +0300",
       "Completed Made for Each Other§r": "2024-07-07 04:28:35 +0300",
       "Completed The Study Guide§r": "2024-07-09 23:34:23 +0300",
@@ -1045,6 +1052,7 @@
       "Completed CAT 5§r": "2024-07-06 23:33:17 +0300",
       "Completed Baby Got Backpack§r": "2024-07-10 00:07:38 +0300",
       "Completed Master Blaster§r": "2024-07-06 23:34:12 +0300",
+      "Completed Roll Out the Barrel§r": "2024-07-29 18:59:09 +0300",
       "Completed I WANT IT NOW!§r": "2024-07-06 23:35:55 +0300",
       "Completed Wood You Hand Me That Crate Please?§r": "2024-07-06 18:01:13 +0300",
       "Completed Age of Storage§r": "2024-07-06 16:07:03 +0300",
@@ -1133,6 +1141,7 @@
       "Completed CAT 5§r": "2024-07-06 23:33:17 +0300",
       "Completed Baby Got Backpack§r": "2024-07-10 00:07:38 +0300",
       "Completed Master Blaster§r": "2024-07-06 23:34:12 +0300",
+      "Completed Roll Out the Barrel§r": "2024-07-29 18:59:09 +0300",
       "Completed I WANT IT NOW!§r": "2024-07-06 23:35:55 +0300",
       "Completed Wood You Hand Me That Crate Please?§r": "2024-07-06 18:01:13 +0300",
       "Completed Age of Storage§r": "2024-07-06 16:07:03 +0300",
@@ -1796,6 +1805,7 @@
       "Completed Warm and Gooey§r": "2024-07-16 04:42:51 +0300",
       "Completed Generator, I Hardly Know Her§r": "2024-07-07 03:25:32 +0300",
       "Completed Getting into Shape§r": "2024-07-16 05:00:37 +0300",
+      "Completed Clicker Hero§r": "2024-07-29 18:58:29 +0300",
       "Completed Get Informed!§r": "2024-07-28 05:15:58 +0300",
       "Completed Made for Each Other§r": "2024-07-07 04:28:35 +0300",
       "Completed The Study Guide§r": "2024-07-09 23:34:23 +0300",
@@ -1876,6 +1886,12 @@
   "twilightforest:hill1": {
     "criteria": {
       "redcap": "2024-07-11 00:26:08 +0300"
+    },
+    "done": true
+  },
+  "sf4:age_power/autoclicker": {
+    "criteria": {
+      "Obtain Auto Clicker": "2024-07-29 18:58:29 +0300"
     },
     "done": true
   },
