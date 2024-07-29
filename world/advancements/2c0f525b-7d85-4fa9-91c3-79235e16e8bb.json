@@ -433,9 +433,21 @@
     },
     "done": true
   },
+  "sf4:age_allthethingsomglol/filecabinet": {
+    "criteria": {
+      "Right Click Filing Cabinet with 1 Million Items": "2024-07-29 04:23:53 +0300"
+    },
+    "done": true
+  },
   "twilightforest:alt/biomes/dense_twilight_forest": {
     "criteria": {
       "discover": "2024-07-11 00:02:35 +0300"
+    },
+    "done": true
+  },
+  "sf4:age_storage/bdsandmshippingcontainer": {
+    "criteria": {
+      "Obtain Shipping Container": "2024-07-28 20:23:20 +0300"
     },
     "done": true
   },
@@ -444,6 +456,12 @@
       "Obtain Oak Wood Planks": "2024-07-06 16:33:06 +0300"
     },
     "done": false
+  },
+  "sf4:age_allthethingsomglol/fullyupgradedsimplegenerator": {
+    "criteria": {
+      "Right Click Simple Gen": "2024-07-29 04:41:52 +0300"
+    },
+    "done": true
   },
   "sf4:age1/acorn/dirt": {
     "criteria": {
@@ -479,7 +497,10 @@
   "sf4:age_allthethingsomglol/complete": {
     "criteria": {
       "Completed Ender Game§r": "2024-07-27 02:26:01 +0300",
+      "Completed Gone Fission§r": "2024-07-28 17:56:00 +0300",
+      "Completed MAXIMUM OVERDRIVE§r": "2024-07-29 04:41:52 +0300",
       "Completed Age of ALLTHETHINGSOMGLOL§r": "2024-07-06 16:07:03 +0300",
+      "Completed Going On Your Permanent Record§r": "2024-07-29 04:23:53 +0300",
       "Completed I\u0027m Not Lazy, I\u0027m Energy Efficient§r": "2024-07-16 23:13:56 +0300"
     },
     "done": false
@@ -581,6 +602,7 @@
   },
   "sf4:age_allthethingsomglol/truffles": {
     "criteria": {
+      "Lithium": "2024-07-28 20:39:52 +0300",
       "Boron": "2024-07-16 23:17:08 +0300",
       "Platinum": "2024-07-19 00:40:09 +0300",
       "Steel": "2024-07-19 00:40:09 +0300",
@@ -916,11 +938,20 @@
     },
     "done": true
   },
+  "sf4:age_allthethingsomglol/fissionreactor": {
+    "criteria": {
+      "Right Click Fission Reactor Generating 25k RF/t": "2024-07-28 17:56:00 +0300"
+    },
+    "done": true
+  },
   "sf4:age_allthethingsomglol/complete_no_prestige": {
     "criteria": {
       "Prestige Mode Disabled": "2024-07-06 16:07:03 +0300",
       "Completed Ender Game§r": "2024-07-27 02:26:01 +0300",
+      "Completed Gone Fission§r": "2024-07-28 17:56:00 +0300",
+      "Completed MAXIMUM OVERDRIVE§r": "2024-07-29 04:41:52 +0300",
       "Completed Age of ALLTHETHINGSOMGLOL§r": "2024-07-06 16:07:03 +0300",
+      "Completed Going On Your Permanent Record§r": "2024-07-29 04:23:53 +0300",
       "Completed I\u0027m Not Lazy, I\u0027m Energy Efficient§r": "2024-07-16 23:13:56 +0300"
     },
     "done": false
@@ -1017,6 +1048,7 @@
       "Completed I WANT IT NOW!§r": "2024-07-06 23:35:55 +0300",
       "Completed Wood You Hand Me That Crate Please?§r": "2024-07-06 18:01:13 +0300",
       "Completed Age of Storage§r": "2024-07-06 16:07:03 +0300",
+      "Completed It Fits, We Ship§r": "2024-07-28 20:23:20 +0300",
       "Completed Hop to It§r": "2024-07-06 19:20:03 +0300",
       "Completed ɹǝddoH§r": "2024-07-06 19:58:31 +0300"
     },
@@ -1104,6 +1136,7 @@
       "Completed I WANT IT NOW!§r": "2024-07-06 23:35:55 +0300",
       "Completed Wood You Hand Me That Crate Please?§r": "2024-07-06 18:01:13 +0300",
       "Completed Age of Storage§r": "2024-07-06 16:07:03 +0300",
+      "Completed It Fits, We Ship§r": "2024-07-28 20:23:20 +0300",
       "Completed Hop to It§r": "2024-07-06 19:20:03 +0300",
       "Completed ɹǝddoH§r": "2024-07-06 19:58:31 +0300"
     },
@@ -1162,6 +1195,12 @@
       "discover": "2024-07-11 00:07:07 +0300"
     },
     "done": true
+  },
+  "twilightforest:progress_troll": {
+    "criteria": {
+      "lamp": "2024-07-28 21:02:09 +0300"
+    },
+    "done": false
   },
   "twilightforest:alt/entities/lich": {
     "criteria": {
