@@ -206,6 +206,7 @@
       "Completed Shhhhhhh!§r": "2024-07-27 04:06:50 +0300",
       "Completed Gotta Go Fast§r": "2024-07-07 04:53:07 +0300",
       "Completed Overworked and Underpaid§r": "2024-07-08 01:33:25 +0300",
+      "Completed Yo-Yo Ma§r": "2024-07-30 01:59:30 +0300",
       "Completed Up in Arms§r": "2024-07-06 23:07:36 +0300",
       "Completed Armor 404§r": "2024-07-27 05:02:59 +0300",
       "Completed Tim the Tool Man Taylor§r": "2024-07-06 23:05:46 +0300",
@@ -557,6 +558,7 @@
   "sf4:age_exploration/complete": {
     "criteria": {
       "Completed Age of Exploration§r": "2024-07-06 16:07:03 +0300",
+      "Completed Come Fly With Me§r": "2024-07-30 02:02:12 +0300",
       "Completed It Gives You Wings§r": "2024-07-16 02:52:42 +0300",
       "Completed Nether Here Nor There§r": "2024-07-07 20:17:30 +0300",
       "Completed No Cake Like Home§r": "2024-07-07 20:17:30 +0300",
@@ -852,6 +854,12 @@
       "Obtain Diamond Sapling": "2024-07-07 20:18:06 +0300"
     },
     "done": false
+  },
+  "sf4:age_exploration/viescraft": {
+    "criteria": {
+      "Obtain Airship": "2024-07-30 02:02:12 +0300"
+    },
+    "done": true
   },
   "tutorial:tutorial/copied/string": {
     "criteria": {
@@ -1313,6 +1321,7 @@
   "sf4:age_exploration/completenoprestige": {
     "criteria": {
       "Completed Age of Exploration§r": "2024-07-06 16:07:03 +0300",
+      "Completed Come Fly With Me§r": "2024-07-30 02:02:12 +0300",
       "Completed It Gives You Wings§r": "2024-07-16 02:52:42 +0300",
       "Completed Nether Here Nor There§r": "2024-07-07 20:17:30 +0300",
       "Completed No Cake Like Home§r": "2024-07-07 20:17:30 +0300",
@@ -1335,6 +1344,12 @@
   "sf4:age_power/root": {
     "criteria": {
       "inventoryChange": "2024-07-06 16:07:03 +0300"
+    },
+    "done": true
+  },
+  "sf4:age_enhancement/yoyo": {
+    "criteria": {
+      "Obtain Yoyo": "2024-07-30 01:59:30 +0300"
     },
     "done": true
   },
@@ -1624,6 +1639,12 @@
     },
     "done": false
   },
+  "sf4:age_exploration/waterinnether": {
+    "criteria": {
+      "Place Da Wata": "2024-07-30 02:00:10 +0300"
+    },
+    "done": false
+  },
   "sf4:age_exploration/skygriddragonkill": {
     "criteria": {
       "Completed Age of Exploration§r": "2024-07-06 16:07:03 +0300"
@@ -1673,6 +1694,7 @@
       "Completed Shhhhhhh!§r": "2024-07-27 04:06:50 +0300",
       "Completed Gotta Go Fast§r": "2024-07-07 04:53:07 +0300",
       "Completed Overworked and Underpaid§r": "2024-07-08 01:33:25 +0300",
+      "Completed Yo-Yo Ma§r": "2024-07-30 01:59:30 +0300",
       "Completed Up in Arms§r": "2024-07-06 23:07:36 +0300",
       "Completed Armor 404§r": "2024-07-27 05:02:59 +0300",
       "Completed Tim the Tool Man Taylor§r": "2024-07-06 23:05:46 +0300",
